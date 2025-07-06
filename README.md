@@ -7,9 +7,9 @@ Fixed navigation bar visible on all pages
 Style changes on scroll and hover
 Clean and well-structured code using HTML, CSS, and JavaScript
 ## Technologies Used
-   -HTML
-   -CSS
-   -JavaScript
+HTML
+CSS
+JavaScript
 ## Project Structure
    index.html
    style.css
